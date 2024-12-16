@@ -20,10 +20,14 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
+NAME - VISVESWARRAN H
+REG NO- 24006599
 
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 
 # Result
-
+The correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
 # Output 
+![image](https://github.com/user-attachments/assets/91369108-7842-4aa3-8794-0f371adc6873)
+
